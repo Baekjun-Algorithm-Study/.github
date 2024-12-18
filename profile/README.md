@@ -1,4 +1,4 @@
-## 중요한건 꺽여도 그냥 하는 마음 👋
+## 중요한건 꺾여도 그냥 하는 마음 👋
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_xong)](https://solved.ac/dev_xong)
 
